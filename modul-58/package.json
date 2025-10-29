@@ -1,7 +1,7 @@
 {
   "name": "ph-health-care",
   "version": "1.0.0",
-  "type": "module",
+  "type": "module", 
   "main": "index.js",
   "repository": "https://github.com/QuaziSamiha/PH_Health_Care_Server.git",
   "author": "Quazi Samiha",
