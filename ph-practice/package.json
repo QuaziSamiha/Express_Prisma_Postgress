@@ -4,6 +4,11 @@
   "type": "module",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "tsx src/server.ts",
+    "dev": "tsx watch src/server.ts",
+    "prisma": "prisma"
+  },
   "dependencies": {
     "@prisma/client": "^6.18.0",
     "@types/node": "^24.9.2",
